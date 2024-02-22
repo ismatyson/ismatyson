@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ismatyson
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on VueJs or ReactJs apps
+- 🌱 I’m currently learning ASP.NET Core
+- 💞️ I’m looking to collaborate on ReactJs apps
 - 📫 How to reach me : tyson.muvunyi6@gmail.com
 
 <!---
